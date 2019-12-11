@@ -1,0 +1,18 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "weather app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MJRE",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.0.0-alpha.7",
+    "hbs": "^4.0.6",
+    "request": "^2.88.0",
+    "save": "^2.4.0",
+    "yargs": "^15.0.2"
+  }
+}
